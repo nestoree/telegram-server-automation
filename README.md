@@ -15,16 +15,6 @@ Pensado especialmente para servidores domésticos, Raspberry Pi, VPS y entornos 
 
 ---
 
-## 📂 Estructura del repositorio
-
-├── telegram_command_bot.py
-├── update_wg_ip.sh
-├── start_bot.sh
-├── ssh_login_monitor.sh
-└── README.md
-
----
-
 ## 🤖 1. Bot de Telegram (Python)
 
 **Archivo:** `telegram_command_bot.py`
