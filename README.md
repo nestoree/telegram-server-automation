@@ -80,8 +80,8 @@ Monitor en tiempo real de los logs del servicio SSH usando journalctl.
 
 ### Qué detecta
 ```
-✅ Logins SSH **exitosos**
-⚠️ Intentos de acceso **fallidos**
+✅ Logins SSH exitosos
+⚠️ Intentos de acceso fallidos
 👤 Usuario
 🌍 IP de origen
 👥 Número de usuarios conectados
